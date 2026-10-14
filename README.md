@@ -9,5 +9,5 @@ Link to the Project Document (Restricted Access to Treehouse Lab):https://docs.g
 
 <img width="1175" height="831" alt="Screenshot 2026-10-14 114043" src="https://github.com/user-attachments/assets/5349c2d7-ceb5-43bf-bac0-393ecdbce81f" />
 
-
+<img width="649" height="397" alt="Screenshot 2026-10-14 114343" src="https://github.com/user-attachments/assets/5076bd9b-9aee-4f5a-a85f-66583a33e531" />
 
