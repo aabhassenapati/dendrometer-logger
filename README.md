@@ -11,3 +11,4 @@ Link to the Project Document (Restricted Access to Treehouse Lab):https://docs.g
 
 <img width="649" height="397" alt="Screenshot 2026-10-14 114343" src="https://github.com/user-attachments/assets/5076bd9b-9aee-4f5a-a85f-66583a33e531" />
 
+Datasheet for Potentiometer used in the design: https://www.bourns.com/docs/Product-Datasheets/3046.pdf 
